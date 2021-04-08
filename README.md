@@ -144,7 +144,7 @@ Give Star & Fork this repo, then upload **token.pickle** to your forks
 
 <p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
-## Deploying on Heroku using heroku-cli:
+## Deploying on Heroku using heroku-cli
 
 - Install [Heroku cli](https://devcenter.heroku.com/articles/heroku-cli)
 - Login into your heroku account with command:
