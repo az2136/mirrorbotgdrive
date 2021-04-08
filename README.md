@@ -146,6 +146,9 @@ Give Star & Fork this repo, then upload **token.pickle** to your forks
 
 ## Deploying on Heroku using heroku-cli
 
+<details>
+    <summary><b>Click here for more details</b></summary>
+
 - Install [Heroku cli](https://devcenter.heroku.com/articles/heroku-cli)
 - Login into your heroku account with command:
 ```
@@ -184,6 +187,8 @@ heroku ps:scale worker=0 -a <appname>
 ```
 heroku ps:scale worker=1 -a <appname>	 	
 ```
+
+</details>
 
 ## Bot commands to be set in [@BotFather](https://t.me/BotFather)
 
